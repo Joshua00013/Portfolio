@@ -1,5 +1,5 @@
 .c-item{
-    height: 480px;
+    height: 800px;
     position: relative;
 }
 .c-image{
@@ -9,4 +9,21 @@
 
 .c-imgcaption{
     text-shadow: 1px 1px black;
+}
+
+.myHeading{
+    text-align: center;
+    color:black;
+    font-family:sans-serif;
+    font-weight: 100;
+}
+
+.c-heading{
+    bottom:200px;
+}
+
+.c-heading h1{
+    font-size: 100px;
+    text-shadow: 2px 2px black;
+    font-weight: 700;
 }
